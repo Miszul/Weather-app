@@ -96,3 +96,12 @@ h2 {
   background-color: white;
   cursor: pointer;
 }
+.GitHubLink {
+  text-align: center;
+  text-decoration: none;
+  color: #887ba3;
+}
+.GitHubLink:hover {
+  color: aqua;
+  cursor: pointer;
+}
